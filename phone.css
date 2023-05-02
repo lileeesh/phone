@@ -1,0 +1,382 @@
+.section_11{
+    background-color: whitesmoke;
+    display: flex;
+}
+.nav{
+    padding-left: 100px;
+}
+
+
+.bb{
+    box-shadow: 2px 3px 5px gray;
+    margin: 100px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 80px;
+}
+.txt{
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 40px;
+    padding: 5px;
+    background-color: rgb(253, 250, 250);
+    text-align: center;
+    
+}
+.cc{
+    margin-left: 100px;
+    margin-right: 40px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(142, 142, 243);
+}
+.txts {
+    margin-left: 100px;
+    font-size: 30px;
+    padding: 5px;
+    background-color: rgb(85, 127, 206);
+    padding-right: 20px;
+}
+.tx{
+    margin-left: 100px;
+    font-size: 30px;
+    padding: 5px;
+    background-color: rgb(159, 184, 231);
+    padding-right: 20px;
+    text-align: center;
+}
+/* .flex{
+    display: flex;
+} */
+
+.row_11{
+    display: flex;
+    margin-left: 140px;
+    margin-right: 140px;
+    background-color: white;
+    margin-bottom: 20px;
+    margin-top: 20px;  
+}
+
+.section_11 .row_11 .col_1{
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section_11 .row_11 .col_1:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section_11 .row_11 .col_1 img{
+    width: 80%;
+}
+
+.section_11 .row_11 .col_1 div{
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section_11 .row_11 .col_1 h4, p{
+    margin-left: -5px;
+    margin-top: 10px;
+}
+
+.section_11 .row_11 .col_1 p{
+    margin-left: -3px;
+}
+
+.section_11 .row_11 .col_2{
+    margin-left: 5px;
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+
+.section_11 .row_11 .col_2:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section_11 .row_11 .col_2 img{
+    width: 80%;
+
+}
+
+.section_11 .row_11 .col_2 div{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section_11 .row_11 .col_2 h4, p{
+    margin-left: -5px;
+    margin-top: 10px;
+}
+
+.section_11 .row_11 .col_2 p{
+    margin-left: -3px;
+}
+
+.section_11 .row_11 .col_3{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ 
+.section_11 .row_11 .col_3:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section_11 .row_11 .col_3 img{
+    width: 80%;
+}
+
+.section_11 .row_11 .col_3 div{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section_11 .row_11 .col_3 h4, p{
+    margin-left: -3px;
+    margin-top: 10px;
+}
+
+.section_11 .row_11 .col_3 p{
+    margin-left: -3px;
+}
+
+.section_11 .row_11 .col_4{
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ 
+.section_11 .row_11 .col_4:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section_11 .row_11 .col_4 img{
+    width: 80%;
+}
+
+.section_11 .row_11 .col_4 div{
+    margin-top: 30px;
+    margin-left: 10px;  
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section_11 .row_11 .col_4 h4, p{
+    margin-left: -3px;
+    margin-top: 10px;
+}
+
+.section_11 .row_11 .col_4 p{
+    margin-left: -3px;
+}
+
+.section_11 .row_11 .col_5{
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ 
+ .section_11 .row_11 .col_5:hover{
+     box-shadow: 2px 3px 5px gray;
+     transition:all 1s;
+ }
+
+.section_11 .row_11 .col_5 img{
+    width: 80%;
+}
+
+.section_11 .row_11 .col_5 div{
+    margin-top: 30px;
+    margin-left: 10px;  
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section_11 .row_11 .col_5 h4, p{
+    margin-left: -3px;
+    margin-top: 10px;
+}
+
+.section_11 .row_11 .col_5 p{
+    margin-left: -3px;
+}
+
+.section_11 .row_11 .col_6{
+   margin-left: 15px;
+   margin-right: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.section_11 .row_11 .col_6:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section_11 .row_11 .col_6 img{
+    width: 80%;
+}
+
+.section_11 .row_11 .col_6 div{
+    margin-top: 30px;
+    margin-left: 10px;  
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section_11 .row_11 .col_6 h4, p{
+    margin-left: -3px;
+    margin-top: 10px;
+}
+
+.section_11 .row_11 .col_6 p{
+    margin-left: -3px;
+}
+.row12{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 100px;
+    background-color: white;
+    margin-bottom: 20px;
+    margin-top: 20px;  
+    padding: 5px;
+    padding-left: 50px;
+}
+   
+.section12 .row12 .cola{
+    padding-left: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section12 .row12 .cola:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section12 .row12 .cola img{
+    width: 80%;
+}
+
+.section12 .row12 .cola div{
+    margin-top: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section12 .row12 .cola h4, p{
+    margin-left: -5px;
+    margin-top: 10px;
+}
+
+.section12 .row12 .cola p{
+    margin-left: -3px;
+}
+
+.section12 .row12 .colb{
+    margin-left: 5px;
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+
+.section12 .row12 .colb:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section12 .row12 .colb img{
+    width: 80%;
+
+}
+
+.section12 .row12 .colb div{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section12 .row12 .colb h4, p{
+    margin-left: -5px;
+    margin-top: 10px;
+}
+
+.section12 .row12 .colb p{
+    margin-left: -3px;
+}
+
+.section12 .row12 .colc{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ 
+.section12 .row12 .colc:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section12 .row12 .colc img{
+    width: 80%;
+    height: 70%;
+}
+
+.section12 .row12 .colc div{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section12 .row12 .colc h4, p{
+    margin-left: -3px;
+    margin-top: 10px;
+}
+
+.section12 .row12 .colc p{
+    margin-left: -3px;
+}
+
+.section12 .row12 .cold{
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+ 
+.section12 .row12 .cold:hover{
+    box-shadow: 2px 3px 5px gray;
+    transition:all 1s;
+}
+
+.section12 .row12 .cold img{
+    width: 80%;
+}
+
+.section12 .row12 .cold div{
+    margin-top: 30px;
+    margin-left: 10px;  
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.section12 .row12 .cold h4, p{
+    margin-left: -3px;
+    margin-top: 10px;
+}
+
+.section12 .row12 .cold p{
+    margin-left: -3px;
+}
+
